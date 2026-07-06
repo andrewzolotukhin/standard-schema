@@ -148,7 +148,7 @@ These are the libraries that have already implemented the Standard Schema interf
 | [validate.js](https://github.com/jakelazaroff/validate.js)                         | v0.1.0+    | from the start                                                                                             |
 | [Raptor (Validator)](https://raptorjs.com)                                         | v0.9.0+    | [PR](https://github.com/raptor-js/validator/releases/tag/0.9.0)                                            |
 | [Mongoose](https://github.com/Automattic/mongoose)                                 | v9.7.0+    | [PR](https://github.com/Automattic/mongoose/pull/16308)                                                    |
-| [snap-validate](https://github.com/aniru-dh21/snap-validate)                                 | v0.4.4+    | [Commit](https://github.com/aniru-dh21/snap-validate/commit/de15fee955799e7b0aeb25d62710826d1643ceb7)                                                    |
+| [snap-validate](https://github.com/aniru-dh21/snap-validate)                       | v0.4.4+    | [Commit](https://github.com/aniru-dh21/snap-validate/commit/de15fee955799e7b0aeb25d62710826d1643ceb7)      |
 
 ## What tools / frameworks accept spec-compliant schemas?
 
